@@ -1,7 +1,7 @@
-## Face Segmentation
+# Face Segmentation
 
 
-<table>
+<table align="center">
 
 <tr>
 <th>Original</th>
