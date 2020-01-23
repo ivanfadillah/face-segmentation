@@ -1,7 +1,7 @@
 ## Face Segmentation
 
 
-![](https://github.com/shaoanlu/face-toolbox-keras/raw/master/segmentation.jpg)
+![](https://github.com/ivanfadillah/face-segmentation/raw/master/segmentation.jpg)
 
 
 Model yang digunakan diambil dari sumber berikut:
