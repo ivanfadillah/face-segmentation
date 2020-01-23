@@ -1,7 +1,7 @@
 ## Face Segmentation
 
 
-![](https://github.com/shaoanlu/face-toolbox-keras/raw/master/segmentation.jpg)
+![](https://github.com/ivanfadillah/face-segmentation/raw/master/segmentation.jpg)
 
 
 Model yang digunakan diambil dari sumber berikut:
@@ -40,7 +40,7 @@ bboxes = fd.detect_face(im, with_landmarks=False)
 ```
 
 
-### 3. Face Segmentation
+### 2. Face Segmentation
 ```python
 models.parser.face_parser.FaceParser(path_bisenet_weights=...)
 ```
