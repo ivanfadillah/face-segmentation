@@ -40,7 +40,7 @@ bboxes = fd.detect_face(im, with_landmarks=False)
 ```
 
 
-### 3. Face Segmentation
+### 2. Face Segmentation
 ```python
 models.parser.face_parser.FaceParser(path_bisenet_weights=...)
 ```
