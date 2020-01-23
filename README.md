@@ -1,7 +1,29 @@
 ## Face Segmentation
 
 
-![](https://github.com/ivanfadillah/face-segmentation/raw/master/segmentation.jpg)
+<table>
+
+<tr>
+<th>Original</th>
+<th>Segmentation</th>
+</tr>
+
+<tr>
+<td><img src="images/artis.jpg" height="256" width="256" alt="Original Input"></td>
+<td><img src="output/image1.jpg" height="256" width="256" alt="Original Input"></td>
+</tr>
+
+<tr>
+<td><img src="images/test6.png" height="256" width="256" alt="Color"></td>
+<td><img src="output/image3.jpg" height="256" width="256" alt="Color"></td>
+</tr>
+
+<tr>
+<td><img src="images/test0.jpg" height="256" width="256" alt="Color"></td>
+<td><img src="output/image2.jpg" height="256" width="256" alt="Color"></td>
+</tr>
+
+</table>
 
 
 Model yang digunakan diambil dari sumber berikut:
